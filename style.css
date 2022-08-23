@@ -18,6 +18,11 @@ body {
 	top: 15%;
 	font-family: 'Raleway', sans-serif;
 	font-family: 'Roboto', sans-serif;
+	color: #fff;
 }
 
-
+.title{
+	margin-top: 2em;
+	margin-bottom: 2em;
+	font-size: 5em;
+}
